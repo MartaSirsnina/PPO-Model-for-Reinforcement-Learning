@@ -6,7 +6,7 @@
 This repository contains the implementation of the Proximal Policy Optimization (PPO) model for solving reinforcement learning tasks. The PPO algorithm is used to train an agent to learn how to control a lunar lander in the LunarLander-v2 environment from OpenAI's Gym.
 
 ## Screenshots
-![Game Screenshot](https://i.postimg.cc/6pG5tn54/image.png)
+![Game Screenshot](https://i.postimg.cc/C1C0rpHc/16-4-game.png)
 
 ## Requirements
 - Python 3.x
