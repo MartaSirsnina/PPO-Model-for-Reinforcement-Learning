@@ -17,10 +17,10 @@ This repository contains the implementation of the Proximal Policy Optimization 
 
 ## Usage
 1. Clone the repository:
-   ```
-   git clone <repository_url>
-   cd <repository_name>
-   ```
+```
+git clone <repository_url>
+cd <repository_name>
+```
 2. Run the PPO agent training script:
   ```
   python ppo_agent.py
